@@ -3,6 +3,11 @@
 .mvn
 mvnw.cmd
 mvnw
+build.gradle
+gradle/
+gradlew
+gradlew.bat
+
 
 ### STS ###
 .apt_generated
